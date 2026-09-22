@@ -8,17 +8,16 @@ O banco de dados permite controlar produtos, categorias, fornecedores, quantidad
 
 ---
 
+
 ## MER DER Conceitual
 
-![MER DER Conceitual](Estoque%20loja-conceitual.png)
+![MER DER Conceitual](./Estoque%20loja-conceitual.png)
 
 ---
 
 ## MER DER Lógico
 
-![MER DER Lógico](estoqueloja-lógico.drawio.png)
-
----
+![MER DER Lógico](./estoqueloja-lógico.drawio.png)
 
 # Dicionário de Dados
 
