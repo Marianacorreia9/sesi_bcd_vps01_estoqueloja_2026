@@ -1,6 +1,6 @@
-﻿id_estoque;id_produto;quantidade;quantidade_minima;localizacao
-1;1;50;10;A1
-2;2;25;5;B1
-3;3;18;5;C1
-4;4;12;3;D1
-5;5;30;8;A2
+﻿id_estoque,id_produto,quantidade,quantidade_minima,localizacao
+1,1,50,10,Prateleira A1
+2,2,25,5,Prateleira B1
+3,3,18,5,Prateleira C1
+4,4,12,3,Prateleira D1
+5,5,30,8,Prateleira A2
