@@ -4,20 +4,21 @@
 
 Este projeto apresenta um banco de dados para o gerenciamento do estoque de uma loja de roupas.
 
-O banco de dados permite controlar produtos, categorias, fornecedores, quantidades disponíveis em estoque e movimentações de entrada e saída de produtos.
+O sistema permite controlar produtos, categorias, fornecedores, quantidades disponíveis em estoque e movimentações de entrada e saída de produtos.
 
 ---
 
-
 ## MER DER Conceitual
 
-![MER DER Conceitual](./Estoque%20loja-conceitual.png)
+[![MER DER Conceitual](https://raw.githubusercontent.com/Marianacorreia9/sesi_bcd_vps01_tema_2026/main/Estoque%20loja-conceitual.png)](https://github.com/Marianacorreia9/sesi_bcd_vps01_tema_2026/blob/main/Estoque%20loja-conceitual.png)
 
 ---
 
 ## MER DER Lógico
 
-![MER DER Lógico](./estoqueloja-lógico.drawio.png)
+[![MER DER Lógico](https://raw.githubusercontent.com/Marianacorreia9/sesi_bcd_vps01_tema_2026/main/estoqueloja-l%C3%B3gico.drawio.png)](https://github.com/Marianacorreia9/sesi_bcd_vps01_tema_2026/blob/main/estoqueloja-l%C3%B3gico.drawio.png)
+
+---
 
 # Dicionário de Dados
 
@@ -76,8 +77,6 @@ O banco de dados permite controlar produtos, categorias, fornecedores, quantidad
 ---
 
 # Arquivos CSV
-
-Os dados de teste estão disponíveis nos seguintes arquivos:
 
 * [Categoria](categoria.CSV)
 * [Fornecedor](fornecedor.CSV)
@@ -146,7 +145,7 @@ CREATE TABLE movimentacao_estoque (
 
 # DML
 
-O DML é utilizado para inserir os dados nas tabelas do banco.
+O DML é utilizado para inserir os dados nas tabelas.
 
 ```sql
 INSERT INTO categoria (id, nome, descricao) VALUES
@@ -194,24 +193,20 @@ VALUES
 
 ---
 
-# Organização dos arquivos
+# Arquivos do projeto
 
-```text
-sesi_bcd_vps01_estoqueloja_2026
-│
-├── README.md
-├── Estoque loja-conceitual.png
-├── estoqueloja-lógico.drawio.png
-│
-├── categoria.CSV
-├── fornecedor.CSV
-├── produto.CSV
-├── estoque.CSV
-├── movimentacao_estoque.CSV
-│
-├── ddl.sql
-└── dml.sql
-```
+* `README.md`
+* `Estoque loja-conceitual.png`
+* `estoqueloja-lógico.drawio.png`
+* `categoria.CSV`
+* `fornecedor.CSV`
+* `produto.CSV`
+* `estoque.CSV`
+* `movimentacao_estoque.CSV`
+* `ddl.sql`
+* `dml.sql`
+
+---
 
 ## Tema
 
