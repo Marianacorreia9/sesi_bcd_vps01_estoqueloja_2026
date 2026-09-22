@@ -1,8 +1,8 @@
-id_movimentacao;id_produto;tipo;quantidade;data
-1;1;Entrada;50;01/09/2026
-2;2;Entrada;30;02/09/2026
-3;2;Saida;5;10/09/2026
-4;3;Entrada;20;05/09/2026
-5;3;Saida;2;12/09/2026
-6;4;Entrada;15;07/09/2026
-7;4;Saida;3;15/09/2026
+id_movimentacao,id_produto,tipo,quantidade,data
+1,1,Entrada,50,2026-09-01
+2,2,Entrada,30,2026-09-02
+3,2,Saida,5,2026-09-10
+4,3,Entrada,20,2026-09-05
+5,3,Saida,2,2026-09-12
+6,4,Entrada,15,2026-09-07
+7,4,Saida,3,2026-09-15
