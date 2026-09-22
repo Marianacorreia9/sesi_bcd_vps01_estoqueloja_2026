@@ -10,7 +10,7 @@ O banco de dados permite controlar produtos, categorias, fornecedores, quantidad
 
 ## MER DER Conceitual
 
-![MER DER Conceitual](<Estoque loja-conceitual.png>)
+![MER DER Conceitual](Estoque%20loja-conceitual.png)
 
 ---
 
