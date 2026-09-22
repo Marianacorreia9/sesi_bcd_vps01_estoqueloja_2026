@@ -1,6 +1,6 @@
-id;nome;descricao;preco;marca;id_categoria;id_fornecedor
-1;Camiseta basica;Camiseta de algodao;59.90;Moda brasil;1;1
-2;Calca jeans;Calca jeans tradicional;149.90;Estilo fashion;2;2
-3;Vestido floral;Vestido estampado floral;189.90;Trend roupas;3;3
-4;Jaqueta jeans;Jaqueta jeans azul;229.90;Moda brasil;4;1
-5;Camiseta estampada;Camiseta com estampa frontal;79.90;Estilo fashion;1;2
+id,nome,descricao,preco,marca,id_categoria,id_fornecedor
+1,Camiseta Basica,Camiseta de algodao,59.90,Moda Brasil,1,1
+2,Calca Jeans,Calca jeans tradicional,149.90,Estilo Fashion,2,2
+3,Vestido Floral,Vestido estampado floral,189.90,Trend Roupas,3,3
+4,Jaqueta Jeans,Jaqueta jeans azul,229.90,Moda Brasil,4,1
+5,Camiseta Estampada,Camiseta com estampa frontal,79.90,Estilo Fashion,1,2
