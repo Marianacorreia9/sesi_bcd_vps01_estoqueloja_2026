@@ -1,5 +1,5 @@
-id;nome;descricao
-1;Camisetas;Camisetas masculinas e femininas
-2;Calcas;Calcas jeans e de outros tecidos
-3;Vestidos;Vestidos para diferentes ocasioes
-4;Jaquetas;Jaquetas e Casacos
+id,nome,descricao
+1,Camisetas,Camisetas masculinas e femininas
+2,Calças,Calças jeans e de outros tecidos
+3,Vestidos,Vestidos para diferentes ocasiões
+4,Jaquetas,Jaquetas e casacos
